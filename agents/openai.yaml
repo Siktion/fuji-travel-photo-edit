@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人照片修图"
+  short_description: "按原片、身份与画幅边界修整旅行照片和人像，并逐张核对交付"
+  default_prompt: "使用 $fuji-travel-photo-edit 按我指定的方向修图，保留原片并逐张核对输出。"
